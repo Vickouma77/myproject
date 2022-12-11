@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.first {
+    background: rgb(187, 233, 248);
+    color: black;
+    width: 750px;
+    height: 125px;
+}
+.navbar {
+    float: left;
+    color: #0000;
+    text-align: center;
+    border: solid #0000 2px;
+    background-color: #7fff00;
+    width: 150px;
+    height: 90px;
+    margin: 20px;
+    justify-content: center;
+
+}
